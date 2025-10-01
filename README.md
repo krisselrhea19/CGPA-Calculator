@@ -14,10 +14,6 @@ A simple and efficient CGPA (Cumulative Grade Point Average) calculator designed
 
 ---
 
-## Demo
-
-[Include a link to a live demo or screenshot if applicable]
-
 ---
 
 ## Installation
